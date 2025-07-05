@@ -1,0 +1,5 @@
+{
+  "name": "openkore/discord-api",
+  "description": "API simples para logs do OpenKore com envio ao Discord",
+  "require": {}
+}
